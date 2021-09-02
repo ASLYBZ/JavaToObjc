@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    
     TestLog *testLog = [[TestLog alloc] init];
     [testLog log];
 }
